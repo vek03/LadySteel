@@ -13,10 +13,10 @@
   #define _MYSQL_LOGLEVEL_      1
   
   //BD
-  char user[]               = "tcc_db1";                      // usuario MySQL
-  char password[]           = "Mari@123";                     // senha MySQL
-  char server[]             = "tcc_db1.mysql.dbaas.com.br";   // url do servidor
-  char default_database[]   = "tcc_db1";                      // nome do bd
+  char user[]               = "BD_USER";                      // usuario MySQL
+  char password[]           = "BD_PASSWORD";                  // senha MySQL
+  char server[]             = "BD_HOST";                      // url do servidor
+  char default_database[]   = "BD_NAME";                      // nome do bd
   uint16_t server_port      = 3306;                           // porta MySQL
   
   //QUERY
