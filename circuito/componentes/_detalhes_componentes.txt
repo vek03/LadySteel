@@ -1,0 +1,117 @@
+=================================================================
+
+$ INFORMAÇÕES DOS COMPONENTES $
+
+------------------------------------------------------------------
+
+* ESP32 Wifi + Bluetooth *
+
+Valor: 69$
+Link: https://www.robocore.net/wifi/esp32-wifi-bluetooth 
+Tensão de Alimentação: 4,5 V a 9 V (o módulo possui regulador integrado para 3,3 V)
+
+------------------------------------------------------------------
+
+* Módulo GPS GY-NEO6MV2 com Antena *
+
+Valor: 55$
+Link: https://www.robocore.net/sensor-robo/modulo-gps-gy-neo6mv2-com-antena 
+Tensão de Alimentação: 3,3 V
+Corrente: 45mA
+
+------------------------------------------------------------------
+
+* Botão *
+
+Valor: 15,90$
+Link: https://produto.mercadolivre.com.br/MLB-3270037670-modulo-boto-switch-12mm-push-button-3-pinos-verde-_JM#position=6&search_layout=stack&type=item&tracking_id=f2e506ac-28cf-4b70-ae75-d1fc07fe6f17
+Tensão de Alimentação: 3,3 ~ 5 V
+
+------------------------------------------------------------------
+
+* LED RGB *
+
+Valor: 4,50$
+Link: https://www.robocore.net/display-led/led-rgb-5mm-alto-brilho-5-unidades 
+Tensão de Alimentação: Vermelho: 2,0 V ; Azul e Verde: 3,2 V
+Corrente: 20 mA
+
+------------------------------------------------------------------
+
+* Jumpers *
+
+Valor: 9,90$ por 40x
+Link: https://www.robocore.net/cabo/jumpers-femea-femea-x40-unidades 
+Quantidade: 40 Jumpers
+Tamanho: 20cm
+Tipos: FxF, MxM e MxF
+
+------------------------------------------------------------------
+
+* Extensão *
+
+Valor: 19,27$
+Link: https://a.co/d/14QvSzA 
+Tomadas: 3
+Tensão de Alimentação: 110 - 220 V
+Corrente: 10 A
+Tamanho: 1 metro
+
+------------------------------------------------------------------
+
+* Protoboard 400pts *
+
+Valor: 9,90$
+Link: https://www.robocore.net/protoboard/protoboard-400-pontos 
+Tamanho: 30 colunas e 10 linhas
+
+------------------------------------------------------------------
+
+* Fonte 5V 3A * 
+
+Valor: 29,90$
+Link: https://www.robocore.net/acessorios-raspberry-pi/fonte-chaveada-5v-3a
+Tensão de Alimentação: 110 - 220 V 
+Tensão de Saída: 5 V
+Corrente de Saída: 3 A
+Plug: micro USB (USB B)
+
+------------------------------------------------------------------
+
+* Resistor LED 10 Ohms *
+
+Valor: 0,75$
+Link: https://www.robocore.net/resistor-potenciometro/resistor-10r-pacote-com-10-unidades
+Resistência: 10 Ohms
+Tensão de Entrada para LED: 3,3 V
+
+------------------------------------------------------------------
+
+* Resistor LED 100 Ohms *
+
+Valor: 0,75$
+Link: https://www.robocore.net/resistor-potenciometro/resistor-100r-pacote-com-10-unidades
+Resistência: 100 Ohms
+Tensão de Entrada para LED: 5 V
+
+------------------------------------------------------------------
+
+* Base *
+
+Valor: ?$
+Link: 
+
+------------------------------------------------------------------
+
+* Cúpula com mecânismo *
+
+Valor: 23,75$
+Link: https://shopee.com.br/Kit-Cupula-Abajur-Grande-com-cord%C3%A3o-Branco-e-Soquete-E-27-Completo-Varias-Medidas-i.365249362.21776309866?xptdk=301bc253-5265-4e3d-b149-68674cbb1e72
+Tensão de Alimentação: 110 - 220 V
+Tamanho Fio: 1 metro
+LARGURA CUPULA:  27CM
+ALTURA CUPULA: 17CM
+Cor: Branco
+
+------------------------------------------------------------------
+==================================================================
