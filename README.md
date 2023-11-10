@@ -27,6 +27,7 @@ CASO DE ERRO COM A BASE
 
 COMANDOS ÚTEIS:
 - php artisan key:generate - error 500
+- Excluir o arquivo hot da pasta public - erro de renderização do tailwind
 - php artisan make:Model -cmsr - criar model, controller, migration e seeder com estrutura de uma entidade
 - php artisan cache:clear - limpar cache do laravel
 - php artisan config:clear - limpar cache de configuração - erro SQL
