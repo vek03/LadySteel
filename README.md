@@ -8,7 +8,7 @@ PARA CONTINUAR DESENVOLVENDO:
 - cd '<pasta_do_projeto>'
 - composer install
 - npm install
-- COPIE O ARQUIVO .ENV NO DISCORD EM ARQUIVOS PARA A RAIZ DO PROJETO
+- Clone o arquivo ".env.example" e renomeie a cópia para ".env" com os dados do seu banco e das suas APIs
 - php artisan migrate:fresh --seed ou php artisan migrate --seed(caso não tenha a base na maquina ainda)
 - npm run dev
 - php artisan serve
